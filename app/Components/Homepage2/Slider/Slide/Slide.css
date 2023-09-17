@@ -1,0 +1,115 @@
+.slick-dots ul {
+  align-items: center;
+  justify-content: center;
+  background-color: var(--bg-primary);
+}
+.slick-dots li button {
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  background: #fff;
+}
+.slick-dots li button::before {
+  content: "";
+  display: block;
+  width: 18px;
+  height: 18px;
+  background: var(--bg-primary);
+  border-radius: 50px;
+}
+.slick-dots li.slick-active button::before {
+  content: "";
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  border: 3.856px solid var(--bg-primary);
+  border-radius: 50px;
+}
+.slick-prev,
+.slick-next {
+  background: white;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  box-shadow: 0px 3.85618px 7.71235px rgba(0, 0, 0, 0.25);
+}
+.slick-prev:before,
+.slick-next:before {
+  opacity: 1;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slick-prev:before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-image: url("../../../../../public/prev.png");
+  background-repeat: no-repeat;
+  object-fit: contain;
+  background-position: center;
+  margin: auto;
+}
+.slick-next:before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-image: url("../../../../../public/next.png");
+  background-repeat: no-repeat;
+  object-fit: contain;
+  background-position: center;
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .slick-prev,
+  .slick-next {
+    height: 0px;
+    width: 0px;
+  }
+  .slick-prev:before,
+  .slick-next:before {
+    width: 0px;
+    height: 0px;
+    margin: auto;
+  }
+  .slick-dots li button {
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+  }
+  .slick-dots li button::before {
+    content: "";
+    display: block;
+    width: 12px;
+    height: 12px;
+    /* background-color: rgba(215, 200, 255, 1); */
+    border-radius: 50px;
+  }
+  .slick-dots li.slick-active button::before {
+    content: "";
+    display: block;
+    width: 9px;
+    height: 9px;
+    /* background-color: #fff; */
+    /* border: 3.856px solid #6d37ff; */
+    border-radius: 50px;
+  }
+}
+@media (max-width: 480px) {
+  .slick-prev,
+  .slick-next {
+    height: 0px;
+    width: 0px;
+  }
+  .slick-prev:before,
+  .slick-next:before {
+    width: 0px;
+    height: 0px;
+    margin: auto;
+  }
+  
+}

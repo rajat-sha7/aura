@@ -1,0 +1,132 @@
+.counterCell,
+.counterCell,
+.CounterBox {
+  color: #000000;
+}
+.CounterBox,
+.counterCell,
+.counterRow {
+  display: flex;
+}
+.CounterBox {
+  background: var(--bg-secondary);
+  border: 2.06338px solid #000000;
+  box-shadow: 8.25352px 8.25352px 0px #000000;
+  border-radius: 24px;
+  padding: 40px;
+  flex-direction: column;
+  justify-content: center;
+  margin: 116px auto;
+  max-width: 1455px;
+}
+.CounterBox h2 {
+  text-align: center;
+}
+.counterRow {
+  justify-content: space-between;
+  padding-top: 50px;
+  gap: 50px;
+}
+.counterCell {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+  width: 450px;
+}
+.counterCell h2 {
+  font-weight: var(--fw-extra-bold);
+  text-align: center;
+}
+.counterCell p {
+  font-weight: 700;
+  text-align: center;
+}
+@media (max-width: 1366px) {
+  .CounterBox {
+    max-width: 1200px;
+  }
+  .counterRow {
+    padding-top: 110px;
+    gap: 1px;
+  }
+  .counterCell {
+    gap: 20px;
+    padding: 10px;
+    width: 350px;
+  }
+}
+@media (max-width: 1280px) {
+  .CounterBox {
+    max-width: 1100px;
+  }
+}
+@media (max-width: 1180px) {
+  .CounterBox {
+    max-width: 900px;
+  }
+}
+@media (max-width: 998px) {
+  .CounterBox {
+    max-width: 760px;
+  }
+}
+@media (max-width: 767px) {
+  .CounterBox {
+    margin: 44px auto;
+    padding: 15px;
+  }
+  .CounterBox,
+  .counterCell,
+  .counterRow {
+    flex-direction: column;
+  }
+  .counterRow {
+    padding-top: 15px;
+    gap: 10px;
+    align-items: center;
+  }
+  .counterCell {
+    gap: 1px;
+  }
+}
+@media (max-width: 576px) {
+  .CounterBox {
+    max-width: 400px;
+  }
+  .counterRow {
+    padding-top: 0px;
+    gap: 5px;
+  }
+  .counterCell {
+    padding: 6px;
+  }
+}
+@media (max-width: 480px) {
+  .CounterBox {
+    margin: 40px auto;
+  }
+  .CounterBox h2 {
+    font-size: 16px;
+    line-height: 26px;
+    height: auto;
+  }
+  .CounterBox,
+  .counterCell,
+  .counterRow {
+    flex-direction: column;
+  }
+  .counterCell {
+    gap: 5px;
+    padding: 0px;
+  }
+  .counterCell p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .counterRow {
+    padding-top: 10px;
+    gap: 5px;
+  }
+}

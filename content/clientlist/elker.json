@@ -1,0 +1,156 @@
+{
+  "id": "7",
+  "slug": "elker",
+  "title": "Elker",
+  "description": "Elker is an encrypted reporting and feedback tool which helps employees get support without risk and builds capacity for leaders to build strategy using data",
+  "image": "/elker.png",
+  "meta": {
+    "title": "Elker",
+    "description": "Through the practice of yoga techniques such as asanas (postures), pranayama (breathing exercises), and meditation, individuals can cultivate a deeper connection between the body, mind, and soul.",
+    "image": "/elker.png"
+  },
+  "link": {
+    "url": "",
+    "title": "Case Study"
+  },
+  "tabs": {
+    "title": "Elker",
+    "tablist": [
+      {
+        "id": "graphics",
+        "item": "graphics"
+      },
+      {
+        "id": "management",
+        "item": "project management "
+      },
+      {
+        "id": "system-design",
+        "item": "system design"
+      },
+      {
+        "id": "ux-design",
+        "item": "UX design"
+      },
+      {
+        "id": "web-development",
+        "item": "web development"
+      }
+    ]
+  },
+  "banner": {
+    "image": "/elker-banner.jpg",
+    "alt": "banner image"
+  },
+  "content": {
+    "image": {
+      "img": "/clientlogos/elker-color-logo.svg",
+      "alt": "elker-color-logo"
+    },
+    "title": "Client",
+    "desc": "Elkers",
+    "title2": "Website",
+    "link": {
+      "url": "https://elker.com/",
+      "title": "elker.com"
+    },
+
+    "details": {
+      "p": "<p>Elker is an encrypted reporting and feedback tool which helps employees get support without risk and builds capacity for leaders to build strategy using data. Demand is growing for meaningful responses to harassment, bullying, risk and workplace conflict.</p>",
+      "p2": "<p>Leaders lack access to real-time data that would enable them to develop and enact strategies to respond and improve employee satisfaction, safety and wellbeing. Employees are not always able to access support safely and discreetly. They may avoid reporting sensitive issues due to concerns about confidentiality, mistrust of reporting processes, or fears about repercussions.</p>",
+      "link": {
+        "url": "https://elker.com/",
+        "title": "view Elkers"
+      }
+    },
+    "technology": {
+      "tittle": "Technology",
+      "items": [
+        {
+          "logo": "/contentfull.svg",
+          "title": "Contentful"
+        },
+        {
+          "logo": "/salesforce.svg",
+          "title": "Salesforce Commerce Cloud"
+        },
+        {
+          "logo": "/vue.svg",
+          "title": "Vue Storefront"
+        },
+        {
+          "logo": "/vuejs.svg",
+          "title": "Vue.js "
+        },
+        {
+          "logo": "/cloudfare.svg",
+          "title": "Cloudflare"
+        }
+      ]
+    }
+  },
+
+  "contentwithImg": {
+    "variant": "contentwithimg",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/cashemere.png",
+      "alt": "cashemere"
+    }
+  },
+  "Imgwithcontent": {
+    "variant": "Imgwithcontent",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/image2cashme.png",
+      "alt": "cashemere2"
+    }
+  },
+  "textcontent": {
+    "title": "Creating Next Level Digital Products",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia."
+  },
+  "contentwithImg2": {
+    "variant": "Imgwithcontent2",
+    "title": "A Mobile First App National Legal Aid",
+    "desc": {
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia."
+    },
+    "image": {
+      "img": "/mobil.png",
+      "alt": "cashemere2"
+    }
+  },
+  "feedback": {
+    "client": {
+      "title": "Client Feedback",
+      "desc": "“Great partnerships are built on great relationships and company name have worked to build those strong bonds at all levels with our team at Michael Hill. Taking the time to learn our business, and develop ways of working that are right for us, has been a key factor in delivering our project goals.”",
+      "name": "Olivia",
+      "profile": "/profile.svg"
+    },
+    "banner": {
+      "img": "/familyvoilence.png",
+      "alt": "familyvoilence"
+    },
+    "subheading": "Creating Next Level Website",
+    "content": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p>",
+    "details": "Get in Touch",
+    "quate": " Interested in learning more about our work with Family Violence Law Help or any other projects?",
+    "link": {
+      "url": "/",
+      "title": "Let’s create something together"
+    }
+  },
+  "contentwithImg3": {
+    "variant": "contentwithimg3",
+    "title": "Domestic and Family Violence",
+    "desc": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia.</p>",
+    "image": {
+      "img": "/domstic.png",
+      "alt": "domstic"
+    }
+  }
+}

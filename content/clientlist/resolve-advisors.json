@@ -1,0 +1,156 @@
+{
+  "id": "3",
+  "slug": "resolve-advisors",
+  "title": "Resolve Advisors",
+  "description": "We provide technology consultation and support to Resolve Advisors to build solutions for dispute resolution, conflict management and automation.",
+  "image": "/portfolio2.png",
+  "meta": {
+    "title": "Resolve Advisors",
+    "description": "We provide technology consultation and support to Resolve Advisors to build solutions for dispute resolution, conflict management and automation.",
+    "image": "/portfolio2.png"
+  },
+  "link": {
+    "url": "",
+    "title": "Case Study"
+  },
+  "tabs": {
+    "title": "Resolve Advisors",
+    "tablist": [
+      {
+        "id": "graphics",
+        "item": "graphics"
+      },
+      {
+        "id": "management",
+        "item": "project management "
+      },
+      {
+        "id": "system-design",
+        "item": "system design"
+      },
+      {
+        "id": "ux-design",
+        "item": "UX design"
+      },
+      {
+        "id": "web-development",
+        "item": "web development"
+      }
+    ]
+  },
+  "banner": {
+    "image": "/advisor.jpg",
+    "alt": "banner image"
+  },
+  "content": {
+    "image": {
+      "img": "/clientlogos/resolve-logo.png",
+      "alt": "resolve-logo"
+    },
+    "title": "Client",
+    "desc": "Resolve advisor Law Help",
+    "title2": "Website",
+    "link": {
+      "url": "resolveadvisors.com.au",
+      "title": "resolveadvisors.com.au"
+    },
+
+    "details": {
+      "p": "<p>Since 1996 we have been working with private and government sectors in Australia and overseas.Our team has facilitated strategy and conversations, mediated disputes, designed and implemented stakeholder engagements and provided training from that experience.</p>",
+      "p2": "<p>We use a core set of skills that empower and optimise our clients existing skillsets. We work across industries and sectors.The philosophy is always the same, creating a space and framework for our clients to excel.</p>",
+      "link": {
+        "url": "https://resolveadvisors.com.au/",
+        "title": "View Resolve Advisors"
+      }
+    },
+    "technology": {
+      "tittle": "Technology",
+      "items": [
+        {
+          "logo": "/contentfull.svg",
+          "title": "Contentful"
+        },
+        {
+          "logo": "/salesforce.svg",
+          "title": "Salesforce Commerce Cloud"
+        },
+        {
+          "logo": "/vue.svg",
+          "title": "Vue Storefront"
+        },
+        {
+          "logo": "/vuejs.svg",
+          "title": "Vue.js "
+        },
+        {
+          "logo": "/cloudfare.svg",
+          "title": "Cloudflare"
+        }
+      ]
+    }
+  },
+
+  "contentwithImg": {
+    "variant": "contentwithimg",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/cashemere.png",
+      "alt": "cashemere"
+    }
+  },
+  "Imgwithcontent": {
+    "variant": "Imgwithcontent",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/image2cashme.png",
+      "alt": "cashemere2"
+    }
+  },
+  "textcontent": {
+    "title": "Creating Next Level Digital Products",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia."
+  },
+  "contentwithImg2": {
+    "variant": "Imgwithcontent2",
+    "title": "A Mobile First App National Legal Aid",
+    "desc": {
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia."
+    },
+    "image": {
+      "img": "/mobil.png",
+      "alt": "cashemere2"
+    }
+  },
+  "feedback": {
+    "client": {
+      "title": "Client Feedback",
+      "desc": "“Great partnerships are built on great relationships and company name have worked to build those strong bonds at all levels with our team at Michael Hill. Taking the time to learn our business, and develop ways of working that are right for us, has been a key factor in delivering our project goals.”",
+      "name": "Olivia",
+      "profile": "/profile.svg"
+    },
+    "banner": {
+      "img": "/familyvoilence.png",
+      "alt": "familyvoilence"
+    },
+    "subheading": "Creating Next Level Website",
+    "content": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p>",
+    "details": "Get in Touch",
+    "quate": " Interested in learning more about our work with Family Violence Law Help or any other projects?",
+    "link": {
+      "url": "/",
+      "title": "Let’s create something together"
+    }
+  },
+  "contentwithImg3": {
+    "variant": "contentwithimg3",
+    "title": "Domestic and Family Violence",
+    "desc": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia.</p>",
+    "image": {
+      "img": "/domstic.png",
+      "alt": "domstic"
+    }
+  }
+}

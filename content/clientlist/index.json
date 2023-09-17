@@ -1,0 +1,107 @@
+{
+  "title": "Creating Next Level Digital Products",
+
+  "clients": [
+    {
+      "id": "1",
+      "slug": "national-legal-aid",
+      "title": "National Legal Aid",
+      "description": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+      "image": "/product1.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Education"
+    },
+    {
+      "id": "2",
+      "slug": "resolution-pathways",
+      "title": "Resolution Pathways",
+      "description": "Aura provided web development and project design services to Resolution Pathways to augment their capacity to resolve disputes for APRA AMCOS members and licensees.",
+      "image": "/portfolio1.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Ecommerce"
+    },
+
+    {
+      "id": "3",
+      "slug": "resolve-advisors",
+      "title": "Resolve Advisors",
+      "description": "We provide technology consultation and support to Resolve Advisors to build solutions for dispute resolution, conflict management and automation.",
+      "image": "/portfolio2.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Marketing"
+    },
+
+    {
+      "id": "4",
+      "slug": "yoga-vastu",
+      "title": "Yoga Vastu",
+      "description": "The world's leading Iyengar yoga video service. Built to connect a international group of experienced practitioners together with video, audio, social networking.",
+      "image": "/portfolio3.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Beauty"
+    },
+
+    {
+      "id": "5",
+      "slug": "accessible-cms",
+      "title": "Accessible CMS",
+      "description": "We created a cutting-edge content management system capable of producing websites that are accessible for people of all abilities.",
+      "image": "/portfolio4.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Ecommerce"
+    },
+
+    {
+      "id": "6",
+      "slug": "blaqbox",
+      "title": "Blaqbox",
+      "description": "A tool for tracking cryptocurrency news, calendar events and price movements. A unique algorithm ranks news according to trust, reliability and price-impact.",
+      "image": "/portfolio5.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Medical"
+    },
+
+    {
+      "id": "7",
+      "slug": "elker",
+      "title": "Elker",
+      "description": "Elker is an encrypted reporting and feedback tool which helps employees get support without risk and builds capacity for leaders to build strategy using data",
+      "image": "/elker.png",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Media"
+    },
+    {
+      "id": "8",
+      "slug": "womens-legal-service",
+      "title": "Womens Legal Service",
+      "description": "Aura developers built a directory of all resources for domestic violence services throughout Australia. Informational videos, database management and extensive consultation services included.",
+      "image": "/women-legal.jpg",
+      "link": {
+        "url": "",
+        "title": "Case Study"
+      },
+      "category": "Business"
+    }
+  ]
+}

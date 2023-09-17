@@ -1,0 +1,152 @@
+.why_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.why_paratxt {
+  font-weight: var(--fw-medium);
+  padding: 33px 0px;
+  max-width: 979px;
+}
+
+.why_cards {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 40px;
+  padding: 17px;
+  padding-bottom: 110px;
+}
+
+.why_card1,
+.why_card2,
+.why_card3 {
+  display: flex;
+  flex-direction: column;
+  padding: 23px 0px;
+  padding-left: 38px;
+  padding-right: 24px;
+  box-sizing: border-box;
+  text-align: left;
+  max-width: 436px;
+  height: 314px;
+  background: #ffffff;
+  border: 2.06338px solid #000000;
+  box-shadow: 8.25352px 8.25352px 0px #000000;
+  border-radius: 12px;
+}
+
+.icon_box3 {
+  background: #ccdeff;
+}
+
+.icon_box2 {
+  background: #d5c2ff;
+}
+
+.heading_box {
+  padding-top: 21px;
+}
+
+.heading_box h3 {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.para_box {
+  padding: 18px 0px;
+}
+
+.para_box span {
+  font-weight: var(--fw-medium);
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.icon {
+  padding-top: 10px;
+  object-fit: contain;
+}
+
+@media (max-width: 1399px) {
+  .why_cards {
+    gap: 30px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .why_card1,
+  .why_card2,
+  .why_card3 {
+    padding: 15px;
+  }
+
+  .heading_box h3 {
+    height: auto;
+  }
+
+  .para_box span {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 991px) {
+  .why_cards {
+    gap: 20px;
+  }
+
+  .why_card1,
+  .why_card2,
+  .why_card3 {
+    padding: 10px;
+  }
+
+  .para_box {
+    padding: 10px 0px;
+  }
+
+  .para_box span {
+    font-size: 14px;
+    line-height: 22px;
+  }
+}
+
+@media (max-width: 767px) {
+  .why_cards {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .why_card1,
+  .why_card2,
+  .why_card3 {
+    padding: 10px 20px;
+  }
+
+  .heading_box {
+    padding-top: 10px;
+  }
+
+  .para_box span {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+
+@media (max-width: 576px) {
+  .why_card1,
+  .why_card2,
+  .why_card3 {
+    padding: 20px 16px;
+    height: auto;
+  }
+
+  .why_cards {
+    padding-bottom: 50px;
+  }
+}

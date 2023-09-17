@@ -1,0 +1,156 @@
+{
+  "id": "4",
+  "slug": "yoga-vastu",
+  "title": "Yoga Vastu",
+  "description": "The world's leading Iyengar yoga video service. Built to connect a international group of experienced practitioners together with video, audio, social networking.",
+  "image": "/portfolio3.png",
+  "meta": {
+    "title": "Yoga Vastu",
+    "description": "The world's leading Iyengar yoga video service. Built to connect a international group of experienced practitioners together with video, audio, social networking.",
+    "image": "/portfolio3.png"
+  },
+  "link": {
+    "url": "",
+    "title": "Case Study"
+  },
+  "tabs": {
+    "title": "Yoga Vastu",
+    "tablist": [
+      {
+        "id": "graphics",
+        "item": "graphics"
+      },
+      {
+        "id": "management",
+        "item": "project management "
+      },
+      {
+        "id": "system-design",
+        "item": "system design"
+      },
+      {
+        "id": "ux-design",
+        "item": "UX design"
+      },
+      {
+        "id": "web-development",
+        "item": "web development"
+      }
+    ]
+  },
+  "banner": {
+    "image": "/yoga-vastu.jpg",
+    "alt": "banner image"
+  },
+  "content": {
+    "image": {
+      "img": "/clientlogos/yoga-logo.png",
+      "alt": "yoga-logo"
+    },
+    "title": "Client",
+    "desc": "Yoga vastu ",
+    "title2": "Website",
+    "link": {
+      "url": "https://yogavastu.com/",
+      "title": "yogavastu.com"
+    },
+
+    "details": {
+      "p": "<p>Interested in learning more about the benefits of this unique form of yoga practice? Read through in-depth articles about Iyengar yoga practice, philosophy, personal stories and medical studies. Discover the importance of Iyengar sequencing, how you can further explore yoga through technique.</p>",
+      "p2": "<p>At Yoga Vastu, our goal is to make world-class instruction in Iyengar yoga available to our students wherever they are, whenever they want to practice. We make our classes available online through an on-demand platform - one that ensures that you can watch and rewatch specific flows and classes, and take your learning into your own hands.</p>",
+      "link": {
+        "url": "https://yogavastu.com/",
+        "title": "View Yoga Vastu"
+      }
+    },
+    "technology": {
+      "tittle": "Technology",
+      "items": [
+        {
+          "logo": "/contentfull.svg",
+          "title": "Contentful"
+        },
+        {
+          "logo": "/salesforce.svg",
+          "title": "Salesforce Commerce Cloud"
+        },
+        {
+          "logo": "/vue.svg",
+          "title": "Vue Storefront"
+        },
+        {
+          "logo": "/vuejs.svg",
+          "title": "Vue.js "
+        },
+        {
+          "logo": "/cloudfare.svg",
+          "title": "Cloudflare"
+        }
+      ]
+    }
+  },
+
+  "contentwithImg": {
+    "variant": "contentwithimg",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/cashemere.png",
+      "alt": "cashemere"
+    }
+  },
+  "Imgwithcontent": {
+    "variant": "Imgwithcontent",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/image2cashme.png",
+      "alt": "cashemere2"
+    }
+  },
+  "textcontent": {
+    "title": "Creating Next Level Digital Products",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia."
+  },
+  "contentwithImg2": {
+    "variant": "Imgwithcontent2",
+    "title": "A Mobile First App National Legal Aid",
+    "desc": {
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia."
+    },
+    "image": {
+      "img": "/mobil.png",
+      "alt": "cashemere2"
+    }
+  },
+  "feedback": {
+    "client": {
+      "title": "Client Feedback",
+      "desc": "“Great partnerships are built on great relationships and company name have worked to build those strong bonds at all levels with our team at Michael Hill. Taking the time to learn our business, and develop ways of working that are right for us, has been a key factor in delivering our project goals.”",
+      "name": "Olivia",
+      "profile": "/profile.svg"
+    },
+    "banner": {
+      "img": "/familyvoilence.png",
+      "alt": "familyvoilence"
+    },
+    "subheading": "Creating Next Level Website",
+    "content": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p>",
+    "details": "Get in Touch",
+    "quate": " Interested in learning more about our work with Family Violence Law Help or any other projects?",
+    "link": {
+      "url": "/",
+      "title": "Let’s create something together"
+    }
+  },
+  "contentwithImg3": {
+    "variant": "contentwithimg3",
+    "title": "Domestic and Family Violence",
+    "desc": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia.</p>",
+    "image": {
+      "img": "/domstic.png",
+      "alt": "domstic"
+    }
+  }
+}

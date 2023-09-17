@@ -1,0 +1,134 @@
+.community_cards {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 1325px;
+  align-self: center;
+}
+.badge {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 34px;
+  letter-spacing: 2px;
+  color: #ffe606;
+  align-self: flex-start;
+  padding: 20px 0;
+  text-transform: uppercase;
+}
+.row1_cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 36px;
+  padding-bottom: 60px;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+}
+.card_imgSize {
+  object-fit: contain;
+  width: 100%;
+}
+._img1 {
+  width: 100%;
+  border-radius: 20px;
+}
+._text {
+  display: flex;
+  gap: 20px;
+}
+._text p {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 34px;
+  color: #ffffff;
+  transition: all 0.2s;
+}
+
+._text a {
+  display: inline-block;
+  width: 100%;
+}
+
+._text span {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 12px;
+  color: rgba(255, 255, 255, 1);
+  padding-top: 11px;
+}
+._text P:hover {
+  color: var(--bg-primary);
+}
+
+.community_title {
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: left;
+}
+
+.community_cards_wrap {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+._img1 img {
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .row1_cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .community_title {
+    text-align: center;
+  }
+
+  .badge {
+    align-self: center;
+  }
+
+  .row1_cards {
+    justify-content: center;
+    padding-bottom: 30px;
+  }
+
+  .community_cards_wrap {
+    padding: 10px 0;
+  }
+  .row1_cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .row1_cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .community_title {
+    padding: 10px 0;
+  }
+
+  .badge {
+    font-size: 21px;
+    line-height: 31px;
+  }
+
+  ._text {
+    gap: 17px;
+  }
+
+  ._text p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  ._text p {
+    font-size: 18px;
+  }
+}

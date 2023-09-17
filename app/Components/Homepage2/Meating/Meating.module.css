@@ -1,0 +1,133 @@
+.meeting_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 142px;
+  padding: 150px 0px;
+}
+.calender_section {
+  width: 100%;
+  max-width: 495px;
+  height: 790px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: 8px 8px 0px #000000;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+/* ---------------------------------------------------- */
+.description_section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 875px;
+}
+.description_section h2 {
+  text-align: left;
+}
+.description_section a {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding-top: 21px;
+}
+.description_section a:hover {
+  color: var(--bg-primary);
+  border-bottom: 1px solid var(--bg-primary);
+}
+.ordered_list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 31px;
+  padding-top: 55px;
+  padding-left: 20px;
+}
+.ordered_list li {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 30px;
+  text-align: justify;
+}
+.ordered_list span {
+  color: #4b4b4b;
+  font-weight: 500;
+}
+
+@media (max-width: 1399px) {
+  .meeting_section {
+    gap: 80px;
+    padding: 74px 0px;
+  }
+  .ordered_list {
+    gap: 20px;
+    padding-top: 38px;
+  }
+  .ordered_list li {
+    line-height: 30px;
+  }
+}
+@media (max-width: 1199px) {
+  .description_section h2 {
+    text-align: left;
+  }
+  .meeting_section {
+    gap: 40px;
+    padding: 50px 0px;
+  }
+  .description_section a {
+    font-size: var(--fs-sm);
+    line-height: 30px;
+    word-spacing: 5px;
+  }
+  .ordered_list {
+    gap: 10px;
+    padding-top: 20px;
+  }
+}
+@media (max-width: 991px) {
+  .meeting_section {
+    gap: 30px;
+  }
+  .description_section a {
+    font-size: var(--fs-xxs);
+    line-height: 30px;
+    word-spacing: 5px;
+    padding-top: 5px;
+  }
+  .ordered_list {
+    gap: 10px;
+    padding-top: 10px;
+  }
+  .ordered_list li {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+@media (max-width: 767px) {
+  .meeting_section {
+    padding-inline: 15px;
+    gap: 30px;
+    flex-direction: column-reverse;
+  }
+  .description_section h2 {
+    text-align: center;
+  }
+  .description_section a {
+    font-size: var(--fs-xxs);
+    line-height: 30px;
+    word-spacing: 5px;
+    padding-top: 15px;
+    align-self: center;
+  }
+  .ordered_list {
+    gap: 12px;
+    padding-top: 12px;
+  }
+  .calender_section {
+    height: 638px;
+  }
+}

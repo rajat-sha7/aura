@@ -1,0 +1,156 @@
+{
+  "id": "6",
+  "slug": "blaqbox",
+  "title": "Blaqbox",
+  "description": "A tool for tracking cryptocurrency news, calendar events and price movements. A unique algorithm ranks news according to trust, reliability and price-impact.",
+  "image": "/portfolio5.png",
+  "meta": {
+    "title": "Blaqbox",
+    "description": "A tool for tracking cryptocurrency news, calendar events and price movements. A unique algorithm ranks news according to trust, reliability and price-impact.",
+    "image": "/portfolio5.png"
+  },
+  "link": {
+    "url": "",
+    "title": "Case Study"
+  },
+  "tabs": {
+    "title": "National Legal Aid",
+    "tablist": [
+      {
+        "id": "graphics",
+        "item": "graphics"
+      },
+      {
+        "id": "management",
+        "item": "project management "
+      },
+      {
+        "id": "system-design",
+        "item": "system design"
+      },
+      {
+        "id": "ux-design",
+        "item": "UX design"
+      },
+      {
+        "id": "web-development",
+        "item": "web development"
+      }
+    ]
+  },
+  "banner": {
+    "image": "/blaqbox.jpg",
+    "alt": "banner image"
+  },
+  "content": {
+    "image": {
+      "img": "/blaqbox.jpg",
+      "alt": "blaqbox"
+    },
+    "title": "Client",
+    "desc": "Blaqbox",
+    "title2": "Website",
+    "link": {
+      "url": "https://blaqbox.io/",
+      "title": "blaqbox.io"
+    },
+
+    "details": {
+      "p": "<p>We have 15 years of working across multiple projects and developing systems for business leaders, educators, founders, doctors and lawyers. The thing that consistently frustrates projects is a miscommunication between people that have ideas and people that can execute them.</p>",
+      "p2": "<p>The Aura team have extensive experience working on both sides of this equation. We have been project creators and project managers. We can talk at a high-level about project scope and also in granular detail about the micro-steps needed to implement ideas effectively.</p>",
+      "link": {
+        "url": "https://blaqbox.io/",
+        "title": "View Blaqbox"
+      }
+    },
+    "technology": {
+      "title": "Technology",
+      "items": [
+        {
+          "logo": "/contentfull.svg",
+          "title": "Contentful"
+        },
+        {
+          "logo": "/salesforce.svg",
+          "title": "Salesforce Commerce Cloud"
+        },
+        {
+          "logo": "/vue.svg",
+          "title": "Vue Storefront"
+        },
+        {
+          "logo": "/vuejs.svg",
+          "title": "Vue.js "
+        },
+        {
+          "logo": "/cloudfare.svg",
+          "title": "Cloudflare"
+        }
+      ]
+    }
+  },
+
+  "contentwithImg": {
+    "variant": "contentwithimg",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/cashemere.png",
+      "alt": "cashemere"
+    }
+  },
+  "Imgwithcontent": {
+    "variant": "Imgwithcontent",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/image2cashme.png",
+      "alt": "cashemere2"
+    }
+  },
+  "textcontent": {
+    "title": "Creating Next Level Digital Products",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia."
+  },
+  "contentwithImg2": {
+    "variant": "Imgwithcontent2",
+    "title": "A Mobile First App National Legal Aid",
+    "desc": {
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia."
+    },
+    "image": {
+      "img": "/mobil.png",
+      "alt": "cashemere2"
+    }
+  },
+  "feedback": {
+    "client": {
+      "title": "Client Feedback",
+      "desc": "“Great partnerships are built on great relationships and company name have worked to build those strong bonds at all levels with our team at Michael Hill. Taking the time to learn our business, and develop ways of working that are right for us, has been a key factor in delivering our project goals.”",
+      "name": "Olivia",
+      "profile": "/profile.svg"
+    },
+    "banner": {
+      "img": "/familyvoilence.png",
+      "alt": "familyvoilence"
+    },
+    "subheading": "Creating Next Level Website",
+    "content": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p>",
+    "details": "Get in Touch",
+    "quate": " Interested in learning more about our work with Family Violence Law Help or any other projects?",
+    "link": {
+      "url": "/",
+      "title": "Let’s create something together"
+    }
+  },
+  "contentwithImg3": {
+    "variant": "contentwithimg3",
+    "title": "Domestic and Family Violence",
+    "desc": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia.</p>",
+    "image": {
+      "img": "/domstic.png",
+      "alt": "domstic"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "slug": "AI-in-action",
+    "description": "AI in action: 5 ways its improving software development.",
+    "image": "/community1.png",
+    "link": {
+      "url": "",
+      "title": "AI in action: 5 ways its improving software development..."
+    }
+  },
+  {
+    "id": "2",
+    "slug": "Shifting-from-third-party",
+    "description": "Shifting from third-party to first party data strategy to transform customer experience",
+    "image": "/community2.png",
+    "link": {
+      "url": "",
+      "title": "Shifting from third-party to first party..."
+    }
+  },
+  {
+    "id": "3",
+    "slug": "Accelerating-transformation",
+    "description": "Accelerating transformation with value driven analytics",
+    "image": "/community3.png",
+    "link": {
+      "url": "",
+      "title": "Accelerating transformatio with value..."
+    }
+  },
+  {
+    "id": "4",
+    "slug": "AI-in-action",
+    "description": "AI in action: 5 ways its improving software development.",
+    "image": "/community1.png",
+    "link": {
+      "url": "",
+      "title": "AI in action: 5 ways its improving..."
+    }
+  },
+  {
+    "id": "5",
+    "slug": "Shifting-from-third-party",
+    "description": "Shifting from third-party to first party data strategy to transform customer experience",
+    "image": "/community2.png",
+    "link": {
+      "url": "",
+      "title": "Shifting from third-party to first..."
+    }
+  },
+  {
+    "id": "6",
+    "slug": "Accelerating-transformation",
+    "description": "Accelerating transformation with value driven analytics",
+    "image": "/community3.png",
+    "link": {
+      "url": "",
+      "title": "Accelerating transformation with value..."
+    }
+  },
+  {
+    "id": "7",
+    "slug": "AI-in-action",
+    "description": "AI in action: 5 ways its improving software development.",
+    "image": "/community1.png",
+    "link": {
+      "url": "",
+      "title": "AI in action: 5 ways its improvi..."
+    }
+  },
+  {
+    "id": "8",
+    "slug": "Shifting-from-third-party",
+    "description": "Shifting from third-party to first party data strategy to transform customer experience",
+    "image": "/community2.png",
+    "link": {
+      "url": "",
+      "title": "Shifting from third-party to first party data..."
+    }
+  },
+  {
+    "id": "9",
+    "slug": "Accelerating-transformation",
+    "description": "Accelerating transformation with value driven analytics",
+    "image": "/community3.png",
+    "link": {
+      "url": "",
+      "title": "Accelerating transformation with..."
+    }
+  }
+]

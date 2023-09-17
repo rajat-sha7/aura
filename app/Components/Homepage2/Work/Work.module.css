@@ -1,0 +1,259 @@
+.work_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.workbox_p {
+  text-align: center;
+  margin-top: 17px;
+}
+.workslides {
+  padding: 58px 0px;
+  width: 100%;
+  max-width: 1920px;
+}
+.slider_imgSize {
+  object-fit: contain;
+  width: 100%;
+  max-width: 500px;
+  position: absolute;
+  border: 20px;
+  border-radius: 20px
+}
+.view_click {
+  background: #000000;
+  color: white;
+  padding: 20px 71px;
+}
+.view_click:hover {
+  background: white;
+  color: black;
+  outline: 1px solid black;
+  transition: all ease-in-out 0.25s;
+}
+.link_tag {
+  text-decoration: none;
+}
+.hover_txt {
+  position: relative;
+  height: 500px;
+  z-index: 14;
+}
+.hover_box {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  gap: 50px;
+  flex-direction: column;
+  opacity: 0;
+  visibility: 0;
+  padding: 116px 44px 116px 44px;
+  border-radius: 20px;
+}
+.hover_box button:hover {
+  background-color: var(--bg-secondary);
+  color: var(--bg-primary);
+  transition: 0.25s all ease-in-out;
+}
+.hover_box button:hover svg {
+  color: var(--bg-primary);
+}
+.hover_box h5 {
+  max-width: 412px;
+  font-weight: 800;
+  font-size: 42px;
+  line-height: 50px;
+  color: #ffffff;
+}
+.hover_box p {
+  padding: 17px 0px;
+  max-width: 300px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.hover_box button {
+  background: var(--bg-primary);
+  color: #ffffff;
+  padding: 10px 25px;
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+.hover_box i {
+  color: var(--bg-white);
+  padding-left: 5px;
+}
+.hover_box button:hover i {
+  color: var(--bg-primary);
+}
+.hover_txt:hover .hover_box {
+  opacity: 1;
+  visibility: 1;
+  transition: 0.7s all ease;
+}
+.hover_txt:hover .slider_imgSize {
+  z-index: -1;
+  filter: blur(3px) brightness(60%);
+  backdrop-filter: blur(32px);
+  transition: 0.15s all ease-in-out;
+  border-radius: 15px;
+}
+@media (max-width: 1670px) {
+  .slider_imgSize {
+    max-width: 450px;
+  }
+  .hover_txt {
+    height: 450px;
+  }
+}
+@media (max-width: 1500px) {
+  .slider_imgSize {
+    max-width: 380px;
+  }
+  .hover_txt {
+    height: 380px;
+  }
+  .hover_box {
+    gap: 20px;
+    flex-direction: column;
+    padding: 30px;
+  }
+  .hover_box h5 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .hover_box p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .hover_box button {
+    padding: 5px 10px;
+  }
+}
+@media (max-width: 1199px) {
+  .workslides {
+    padding: 38px 0px;
+    max-height: 400px;
+  }
+  .slider_imgSize {
+    max-width: 310px;
+  }
+  .hover_txt {
+    width: 310px;
+  }
+  .hover_box {
+    padding: 20px;
+    border-radius: 20px;
+    gap: 20px;
+  }
+  .hover_box h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .hover_box p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+@media (max-width: 991px) {
+  /* .slider_lists button {
+    padding: 10px 15px;
+  } */
+  .workslides {
+    padding: 38px 0px;
+    max-height: 350px;
+  }
+  .slider_imgSize {
+    max-width: 250px;
+  }
+  .hover_box {
+    max-width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 0px;
+  }
+  .hover_box h5 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .hover_box p {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 5px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .workslides {
+    padding: 30px 0px;
+  }
+  /* .slider_lists {
+    margin-top: 30px;
+    gap: 20px;
+    padding: 10px;
+  } */
+  .slider_imgSize {
+    max-width: 280px;
+  }
+  .hover_box {
+    max-width: 280px;
+    padding: 20px;
+  }
+  .view_click {
+    padding: 10px 45px;
+  }
+}
+@media (max-width: 620px) {
+  .slider_imgSize {
+    max-width: 250px;
+  }
+  .hover_box {
+    max-width: 250px;
+    padding: 15px;
+  }
+}
+@media (max-width: 576px) {
+  .work_container {
+    padding-top: 25px;
+  }
+  /* .slider_lists {
+    flex-direction: column;
+    margin-top: 15px;
+    gap: 9px;
+    width: 90%;
+    padding: 10px;
+  } */
+  .workslides {
+    max-height: 280px;
+    padding: 20px 0px;
+  }
+  .slider_imgSize {
+    max-width: 190px;
+  }
+  .hover_txt {
+    height: 189px;
+  }
+  .hover_box {
+    max-width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .hover_box h5 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .hover_box p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px;
+  }
+  /* .slider_lists button {
+    display: block;
+    width: 100%;
+  } */
+}

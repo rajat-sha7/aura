@@ -1,0 +1,156 @@
+{
+  "id": "8",
+  "slug": "womens-legal-service",
+  "title": "Womens Legal Service",
+  "description": "Aura developers built a directory of all resources for domestic violence services throughout Australia. Informational videos, database management and extensive consultation services included.",
+  "image": "/women-legal.jpg",
+  "meta": {
+    "title": "Womens Legal Service",
+    "description": "Aura developers built a directory of all resources for domestic violence services throughout Australia. Informational videos, database management and extensive consultation services included.",
+    "image": "/women-legal.jpg"
+  },
+  "link": {
+    "url": "",
+    "title": "Case Study"
+  },
+  "tabs": {
+    "title": "Womens Legal Service",
+    "tablist": [
+      {
+        "id": "graphics",
+        "item": "graphics"
+      },
+      {
+        "id": "management",
+        "item": "project management "
+      },
+      {
+        "id": "system-design",
+        "item": "system design"
+      },
+      {
+        "id": "ux-design",
+        "item": "UX design"
+      },
+      {
+        "id": "web-development",
+        "item": "web development"
+      }
+    ]
+  },
+  "banner": {
+    "image": "/w-legals-banner.jpg",
+    "alt": "banner image"
+  },
+  "content": {
+    "image": {
+      "img": "/clientlogos/WLS_website-header.png",
+      "alt": "WLS_website"
+    },
+    "title": "Client",
+    "desc": "Womens Legal Service",
+    "title2": "Website",
+    "link": {
+      "url": "https://www.wlsnsw.org.au/",
+      "title": "wlsnsw.org.au"
+    },
+
+    "details": {
+      "p": "<p>Aura developers built a directory of all resources for domestic violence services throughout Australia. Informational videos, database management and extensive consultation services included.</p>",
+      "p2": "<p>We provide specialist legal services relating to domestic violence, sexual assault, family law, discrimination, victims support, child protection, human rights and access to justice</p>",
+      "link": {
+        "url": "https://www.wlsnsw.org.au/",
+        "title": "View Women Legal Service"
+      }
+    },
+    "technology": {
+      "tittle": "Technology",
+      "items": [
+        {
+          "logo": "/contentfull.svg",
+          "title": "Contentful"
+        },
+        {
+          "logo": "/salesforce.svg",
+          "title": "Salesforce Commerce Cloud"
+        },
+        {
+          "logo": "/vue.svg",
+          "title": "Vue Storefront"
+        },
+        {
+          "logo": "/vuejs.svg",
+          "title": "Vue.js "
+        },
+        {
+          "logo": "/cloudfare.svg",
+          "title": "Cloudflare"
+        }
+      ]
+    }
+  },
+
+  "contentwithImg": {
+    "variant": "contentwithimg",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/cashemere.png",
+      "alt": "cashemere"
+    }
+  },
+  "Imgwithcontent": {
+    "variant": "Imgwithcontent",
+    "title": "Cashmere Quality",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+    "image": {
+      "img": "/image2cashme.png",
+      "alt": "cashemere2"
+    }
+  },
+  "textcontent": {
+    "title": "Creating Next Level Digital Products",
+    "desc": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia."
+  },
+  "contentwithImg2": {
+    "variant": "Imgwithcontent2",
+    "title": "A Mobile First App National Legal Aid",
+    "desc": {
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.",
+      "p": "Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia."
+    },
+    "image": {
+      "img": "/mobil.png",
+      "alt": "cashemere2"
+    }
+  },
+  "feedback": {
+    "client": {
+      "title": "Client Feedback",
+      "desc": "“Great partnerships are built on great relationships and company name have worked to build those strong bonds at all levels with our team at Michael Hill. Taking the time to learn our business, and develop ways of working that are right for us, has been a key factor in delivering our project goals.”",
+      "name": "Olivia",
+      "profile": "/profile.svg"
+    },
+    "banner": {
+      "img": "/familyvoilence.png",
+      "alt": "familyvoilence"
+    },
+    "subheading": "Creating Next Level Website",
+    "content": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia. Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p>",
+    "details": "Get in Touch",
+    "quate": " Interested in learning more about our work with Family Violence Law Help or any other projects?",
+    "link": {
+      "url": "/",
+      "title": "Let’s create something together"
+    }
+  },
+  "contentwithImg3": {
+    "variant": "contentwithimg3",
+    "title": "Domestic and Family Violence",
+    "desc": "<p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia. We work with multiple stakeholders to provide a comprehensive information resource around family violence law in Australia.</p><p>Aura provided support to a large and complex project to simplify legal information across all states and territories in Australia.</p>",
+    "image": {
+      "img": "/domstic.png",
+      "alt": "domstic"
+    }
+  }
+}
